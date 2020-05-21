@@ -4,8 +4,13 @@ Created on Wed Mar 18 17:06:20 2020
 
 @author: Nico
 """
-
-
+"""
+Les versions des bibliothèques utilisées sont les suivantes:
+Tensorflow 1.14.0,
+Keras2.2.4
+keras.backend.tf 1.14.0
+D'autres versions peuvent conduirent à des erreurs lors de la compilation du code.
+"""
 from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
